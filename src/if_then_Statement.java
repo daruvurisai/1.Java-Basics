@@ -22,7 +22,7 @@ public class if_then_Statement {
         int b = 2;
         int division = a/b;
         boolean remainder_value = (division==0)?true:false;
-        //
+        //Conditional
         if(!remainder_value){
             System.out.println("Remainder is 0 ");
         }
